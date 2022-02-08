@@ -8,6 +8,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/sample-accelerators/java-web-app-v3
+      url: https://github.com/sample-accelerators/java-web-app-v3.git
       ref:
         branch: main
